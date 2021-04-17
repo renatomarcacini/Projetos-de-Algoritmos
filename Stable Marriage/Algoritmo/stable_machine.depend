@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1618625498 source:c:\users\renat\onedrive\documentos\codeblocks_workspace\stable_machine\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
